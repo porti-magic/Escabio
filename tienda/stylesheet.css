@@ -27,3 +27,7 @@ body{
     border-radius: 10%;
     color: rgb(128, 0, 85);
 }
+
+.tienda{
+    border-bottom-color: aqua;
+}
