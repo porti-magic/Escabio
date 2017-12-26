@@ -27,3 +27,20 @@ body{
     border-radius: 10%;
     color: rgb(128, 0, 85);
 }
+
+.contacto{
+    background-color: aqua;
+    position: absolute;
+    bottom: 0px;
+    border-top: solid black 5px;
+}
+
+.cuerpo{
+    display: inline-block;;
+}
+
+.filtro{
+    margin-top: 20px;
+    border: double black 5px;
+    border-radius: 10%;
+}
