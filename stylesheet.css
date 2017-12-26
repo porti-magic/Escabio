@@ -17,5 +17,7 @@ body{
 }
 
 .pestañas a {
+    border: double black 10px;
+    border-radius: 10%;
     color: green;
 }
