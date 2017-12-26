@@ -1,5 +1,7 @@
 body{
     border: 0px;
+    padding: 0cm;
+    margin: 0cm;
 }
 .heading{
     text-align: center;
@@ -11,4 +13,5 @@ body{
 
 .pestañas{
     text-align: center;
+    background-color: aqua;
 }
