@@ -11,7 +11,11 @@ body{
     margin: 0cm;
 }
 
-.pestañas{
+.pestañas {
     text-align: center;
     background-color: aqua;
+}
+
+.pestañas a {
+    color: green;
 }
