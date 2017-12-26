@@ -20,7 +20,7 @@ body{
 
 .pestañas a {
     position: relative;
-    top: 10px;
+    top: 5px;
     margin: 50px;
     font-size: 150%;
     border-top: double black 5px;
