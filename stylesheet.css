@@ -6,9 +6,8 @@ body{
 .heading{
     text-align: center;
     background-color: red;
-    border: solid 5px black;
+    border: solid 5px rgb(35, 180, 15);
     border-radius: 30%;
-    margin: 0cm;
 }
 
 .pestañas {
@@ -17,7 +16,6 @@ body{
 }
 
 .pestañas a {
-    margin: 100px;
     border: double black 5px;
     border-radius: 10%;
     color: rgb(128, 0, 85);
