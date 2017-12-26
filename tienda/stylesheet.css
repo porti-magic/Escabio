@@ -1,0 +1,29 @@
+body{
+    background-color: aqua;
+    border: 0px;
+    padding: 0cm;
+    margin: 0cm;
+}
+.heading{
+    text-align: center;
+    background-color: red;
+    border: solid 5px rgb(180, 15, 139);
+    border-radius: 30%;
+}
+
+.pestañas {
+    margin-top: 35px;
+    text-align: center;
+    background-color: aqua;
+    border-bottom: double black 5px;
+}
+
+.pestañas a {
+    margin: 50px;
+    font-size: 150%;
+    border-top: double black 5px;
+    border-left: double black 5px;
+    border-right: double black 5px;
+    border-radius: 10%;
+    color: rgb(128, 0, 85);
+}
