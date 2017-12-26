@@ -29,5 +29,6 @@ body{
 }
 
 .tienda{
+    z-index: 100;
     border-bottom-color: aqua;
 }
