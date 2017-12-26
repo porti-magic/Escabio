@@ -27,3 +27,9 @@ body{
     border-radius: 10%;
     color: rgb(128, 0, 85);
 }
+
+.contacto{
+    background-color: aqua;
+    position: absolute;
+    bottom: 0px;
+}
