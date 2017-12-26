@@ -1,6 +1,9 @@
 .heading{
     text-align: center;
     background-color: red;
+    border: solid 3px black;
+    border-radius: 25%;
+    margin: 0cm;
 }
 
 .pestañas{
