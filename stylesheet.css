@@ -3,6 +3,7 @@ body{
     border: 0px;
     padding: 0cm;
     margin: 0cm;
+    margin-bottom: 35px;
 }
 .heading{
     text-align: center;
@@ -12,7 +13,6 @@ body{
 }
 
 .pestañas {
-    margin: 35px;
     text-align: center;
     background-color: aqua;
     border-bottom: double black 5px;
